@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SM_INDU") (type "KiCad") (uri "/home/krishnawa/git/KiCadoodle/LIB/SM_INDU") (options "") (descr ""))
+	(lib (name "SM_FUSE") (type "KiCad") (uri "/home/krishnawa/git/KiCadoodle/LIB/SM_FUSE") (options "") (descr ""))
+)
